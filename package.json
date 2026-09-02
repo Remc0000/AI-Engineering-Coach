@@ -322,7 +322,7 @@
   "devDependencies": {
     "@eslint/js": "10.0.1",
     "@playwright/test": "1.60.0",
-    "@types/node": "25.9.1",
+    "@types/node": "26.4.0",
     "@types/vscode": "1.120.0",
     "@vitest/coverage-v8": "4.1.8",
     "@vscode/vsce": "3.9.2",
